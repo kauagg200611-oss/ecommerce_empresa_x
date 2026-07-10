@@ -26,3 +26,7 @@ __Melhoria 1__, Melhoria 2.
     3. CSS diferente para grupos de clientes
 2. Integração de outros pagamentos
 3. Sistema de bônus primaira compra
+
+#### Imagem local
+
+![Logo do Python](img/python-logo-11609373642q9ewsev5ea.png)
