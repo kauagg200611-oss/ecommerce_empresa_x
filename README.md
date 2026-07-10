@@ -44,3 +44,11 @@ __Melhoria 1__, Melhoria 2.
 Contribuidor principal: https://github.com/kauagg200611-oss
 
 [![Java](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png)](https://github.com/kauagg200611-oss)
+
+## Código da função soma
+
+```java
+public int soma(int a, int b){
+    return a + b;
+}
+```
