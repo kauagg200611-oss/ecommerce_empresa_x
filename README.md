@@ -40,3 +40,5 @@ __Melhoria 1__, Melhoria 2.
 [Google](https://www.google.com)
 
 [https://www.google.com](https://www.google.com)
+
+Contribuidor principal: https://github.com/kauagg200611-oss
