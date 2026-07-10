@@ -30,3 +30,7 @@ __Melhoria 1__, Melhoria 2.
 #### Imagem local
 
 ![Logo do Python](img/python-logo-11609373642q9ewsev5ea.png)
+
+#### Imagem externa
+
+![Logo do Java](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png)
