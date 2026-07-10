@@ -12,8 +12,8 @@ __Melhoria 1__, Melhoria 2.
 
 ### Linguagens do projeto:
 
-* HTML
-* CSS
-* JavaScript
-* PHP
-* MySQL
+* _HTML_
+* _CSS_
+* _JavaScript_
+* _PHP_
+* _MySQL_
