@@ -2,6 +2,6 @@
 
 vamos criar um e-commerce para a empresa x e blablabla
 
-## funcionalidades
+## Funcionalidades
 
 Checkout, tela de produtos, catálogo, Home com banner.
