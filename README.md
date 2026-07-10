@@ -34,3 +34,7 @@ __Melhoria 1__, Melhoria 2.
 #### Imagem externa
 
 ![Logo do Java](https://logos-world.net/wp-content/uploads/2022/07/Java-Logo.png)
+
+## Links interessantes:
+
+[Google](https://www.google.com)
